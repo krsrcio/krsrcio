@@ -1,4 +1,4 @@
-!(assets/intro 20pic.png)
+<img src="assets/intro-pic.png" width="100%" />
 
 <!--
 **krsrcio/krsrcio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
