@@ -30,7 +30,7 @@ I'm currently looking for **IT internship opportunities** where I can gain real-
 ## Connect With Me
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/kristineio/" target="_blank">
+  <a href="www.linkedin.com/in/kristinecastres" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" />
   </a>
   <a href="https://www.facebook.com/Kristineeehhh" target="_blank">
