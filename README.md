@@ -14,23 +14,6 @@ I enjoy working on **web and mobile applications**, exploring different technolo
   <img src="https://skillicons.dev/icons?i=javascript,typescript,python,dart,tailwind,django,aws,cs,jenkins" height="45" alt="Tech Stack" />
 </div>
 
-## Featured Projects
-
-### RXGuard
-
-A prescription and medication management system designed to support safer prescription tracking and medication use.
-
-### AI Resume Analyzer
-
-A web and mobile application concept designed to analyze resumes, compare them with job descriptions, identify missing skills, and provide improvement suggestions.
-
-### SmileTrack
-
-A dental clinic management system focused on patient records and appointment scheduling.
-
-### Blerp
-
-A map-based application using interactive mapping technology to explore locations in the Philippines.
 
 ## What I'm Looking For
 
