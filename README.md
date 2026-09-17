@@ -10,8 +10,16 @@ I enjoy working on **web and mobile applications**, exploring different technolo
 
 ## Tech Stack
 
+### Familiar With
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=javascript,typescript,python,dart,tailwind,django,aws,cs,jenkins" height="45" alt="Tech Stack" />
+</div>
+
+### Currently Learning
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,reactnative,flutter" height="45" alt="Currently Learning" />
 </div>
 
 
