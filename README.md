@@ -1,4 +1,4 @@
-<img src="assset/intro pic.png" width="100%" />
+<img src="assset/EY.png" width="100%" />
 
 # Hi, I'm Kristine Castres
 
